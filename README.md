@@ -40,4 +40,5 @@ This app allows users to calculate their BMI based on their height and weight an
 
 Mohd Kadir
 📧 mohdkadir2512004@gmail.com
+
 💼 https://www.linkedin.com/in/mohd-kadir-821436308/
